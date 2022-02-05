@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="lunges_benifits">Benefits of Lunges \n1) Weight Loss.\n2) Balance and Stability.\n3) Alignment and Symmetry.\n4) Stand Taller. </string>
+    <string name="plank_benifits">Benefits of Plank \n1) Helps improve your posture.\n2) Might provide flexibility.\n3) Helps reduce belly fat.\n4) It can help strengthen your core.\n5) Can help reduce joint and especially back pain.\n6) It can help improve metabolism.</string>
+    <string name="pushups_benifits">Benefits of Push Ups \n1) Burning Calories.\n2) Improving your balance and posture.\n3) Improving your flexibility.\n4) Improving your performance in sports and athletic activities.\n5) Protecting your shoulders and lower back from injuries.</string>
+    <string name="crunches_benifits">Benefits of Crunches \n1) It helps to improve posture.\n2) Strong core.\n3) It helps in weight loss.\n4) Stronger muscles.\n5) Better cardiovascular health.</string>
+    <string name="stepping_benifits">Benefits of High Stepping \n1) </string>
+
+
+</resources>
